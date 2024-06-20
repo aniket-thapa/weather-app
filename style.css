@@ -102,8 +102,9 @@ h1 {
   width: calc(100% - 80px);
   height: 40px;
   padding: 0 20px;
-  background-color: rgba(219, 226, 239, 0.5);
+  background-color: rgba(219, 226, 239, 0.063);
   border-radius: 10px;
+  font-size: larger;
 }
 
 .formContainer input:focus {
